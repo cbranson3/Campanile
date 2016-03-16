@@ -1,3 +1,1 @@
-# Chess
-# Campanile
 # Campanile
